@@ -24,7 +24,7 @@ For automated installation, you can use the provided Bash script. Here are the i
 
 1. Download the script:
     ```bash
-    wget https://raw.githubusercontent.com/your-repository/lamp_installation.sh
+    wget (https://github.com/iwewe/ubuntu-server/blob/main/lamp_installation.sh)
     ```
 
 2. Make the script executable:
