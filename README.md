@@ -50,7 +50,7 @@ Access your virtual host at http://example.com. A basic HTML page will be displa
 Create a test PHP file by running:
 ```bash
 echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/test.php
-```bash
+```
 
 ### 5 Usage
 
@@ -64,7 +64,7 @@ Contributions to this guide are welcome. If you have insights, additional tips, 
 
 While this guide aims to provide a comprehensive LAMP setup, keep in mind that security practices and requirements may vary based on your specific use case. Implement additional security measures based on your deployment needs.
 
-## 7. License
+### 7. License
 
 This guide is licensed under the [MIT License](LICENSE). Please review the license before using or contributing to the guide.
 
