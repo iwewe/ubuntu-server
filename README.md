@@ -1,6 +1,6 @@
 # LAMP Server Installation and Configuration Guide - Ubuntu
 
-Welcome to the LAMP Server Installation and Configuration Guide for Ubuntu – your comprehensive resource for setting up a LAMP (Linux, Apache, MySQL, PHP) stack on the latest version of Ubuntu. This guide is designed for users who want to deploy a powerful web server environment for hosting dynamic websites and web applications.
+LAMP Server Installation and Configuration Guide for Ubuntu – comprehensive resource for setting up a LAMP (Linux, Apache, MySQL, PHP) stack on the latest version of Ubuntu. This guide is designed for users who want to deploy a powerful web server environment for hosting dynamic websites and web applications.
 
 ## Purpose
 
