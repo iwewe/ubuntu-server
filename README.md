@@ -51,22 +51,15 @@ Create a test PHP file by running:
 ```bash
 echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/test.php
 
-You can check the test page at http://your-server-ip/test.php.
-
-Creating a Virtual Host
-When prompted, enter your domain or virtual host name (e.g., example.com).
-
-Access your virtual host at http://example.com. A basic HTML page will be displayed.
-
-## Usage
+### Usage
 
 This guide is intended for users who want to set up a LAMP server on Ubuntu. Follow the steps sequentially, and refer to the configuration section for customization based on your specific needs.
 
-## Contributions
+### Contributions
 
 Contributions to this guide are welcome. If you have insights, additional tips, or improvements to the installation process, feel free to submit a pull request.
 
-## Disclaimer
+### Disclaimer
 
 While this guide aims to provide a comprehensive LAMP setup, keep in mind that security practices and requirements may vary based on your specific use case. Implement additional security measures based on your deployment needs.
 
@@ -74,4 +67,4 @@ While this guide aims to provide a comprehensive LAMP setup, keep in mind that s
 
 This guide is licensed under the [MIT License](LICENSE). Please review the license before using or contributing to the guide.
 
-Happy hosting with your LAMP server on Ubuntu! 🌐🚀
+Let's hosting LAMP server on Ubuntu! 🌐🚀
